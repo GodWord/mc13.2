@@ -1084,6 +1084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2018-11-13 13:29:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_at_least_9_lapis": "2018-11-06 20:13:50 +0800"
@@ -1716,8 +1722,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2018-10-22 13:20:18 +0800",
       "minecraft:mountains": "2018-10-27 18:34:35 +0800",
+      "minecraft:forest": "2018-10-22 13:20:18 +0800",
       "minecraft:taiga": "2018-10-27 13:49:57 +0800",
       "minecraft:beach": "2018-10-22 13:21:13 +0800",
       "minecraft:dark_forest": "2018-11-04 12:44:53 +0800",
@@ -1781,6 +1787,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2018-10-22 13:25:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2018-11-13 13:10:20 +0800"
     },
     "done": true
   },

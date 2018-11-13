@@ -1207,8 +1207,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2018-10-27 12:44:06 +0800",
       "minecraft:forest": "2018-10-22 13:24:17 +0800",
+      "minecraft:mountains": "2018-10-27 12:44:06 +0800",
       "minecraft:taiga": "2018-10-27 12:42:38 +0800",
       "minecraft:beach": "2018-10-22 13:23:15 +0800",
       "minecraft:river": "2018-10-22 13:26:45 +0800",
