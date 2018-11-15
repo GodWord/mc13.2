@@ -295,3 +295,7 @@
 [08:46:58] [Server thread/INFO]: Fensor joined the game
 [08:48:00] [Server thread/INFO]: Fensor lost connection: Disconnected
 [08:48:00] [Server thread/INFO]: Fensor left the game
+[09:05:20] [Server thread/WARN]: The save is being accessed from another location, aborting
+[09:06:05] [Server thread/WARN]: The save is being accessed from another location, aborting
+[09:06:50] [Server thread/WARN]: The save is being accessed from another location, aborting
+[09:07:35] [Server thread/WARN]: The save is being accessed from another location, aborting
